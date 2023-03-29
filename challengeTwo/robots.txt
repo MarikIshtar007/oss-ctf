@@ -1,0 +1,6 @@
+User-agent *
+Disallow: 
+
+I see that you have reached here as well. Well done. And for that you get part 4 of the flag: t$_4ev3
+
+One more step. I wonder what apache would use for managing configuration using a special file? 
